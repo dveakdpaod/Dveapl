@@ -1,0 +1,65 @@
+@font-face{
+  font-family: myfont;
+  src: url(fonts/Ariblk.ttf);
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #000000;
+  min-height: 400px;
+  background-position: center;
+  background-size: cover;
+}
+.head{
+    width: 100%;
+    padding: 10px 10px;
+    background: transparent;
+    font-family: myfont;
+    margin-left: -20px;
+}
+.navl{
+    font-size: 15px;
+     
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;
+}
+
+a:visited {
+    color: white;
+}
+/*starts*/
+.ping{
+    margin-top: 100px;
+}
+.map{
+    font-family: myfont;
+    color: white;
+}
+/*product*/
+.sayyas{
+    position: absolute;
+    bottom: -800px;
+    
+}
+.saytex{
+    color: white;
+    font-family: myfont;
+}
+.getink{
+    font-family: myfont;
+}
+.fuck{
+    margin-left: 15px;
+}
+/*credits*/
+.crd{
+    color: white;
+    position: absolute;
+    bottom: -900px;
+}
+

@@ -1,0 +1,72 @@
+@font-face{
+  font-family: myfont;
+  src: url(fonts/Ariblk.ttf);
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #000000;
+  min-height: 400px;
+  background-position: center;
+  background-size: cover;
+  font-size: 16px;
+}
+
+/* nametag */
+.ages {
+   text-align: center;
+   font-size: 10px;
+   color: #ffffff;
+   font-family: myfont;
+}
+
+/* mychannel */
+.chnl {
+    text-align: center;
+}
+.channel{
+    margin-top: 30%;
+}
+
+.sbs {
+    font-family: myfont;
+    color: #ffffff;
+    margin: -1%;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+}
+
+/* editingappslogo */
+.logs {
+   margin-top: 400px;
+}
+
+.Avu {
+    font-family: myfont;
+    color: #ffffff;
+    margin-top: -50px;
+}
+
+.alight{
+    margin-top: 100px;
+    font-family: myfont;
+}
+.am{
+    margin-top: -50px;
+}
+
+.node{
+    margin-top: 100px;
+    font-family: myfont;
+}
+.nd{
+    margin-top: -50px;
+}
